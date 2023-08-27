@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/lovleshharjani22/Fylo)
-- [Live Site URL](https://lovleshharjani22.github.io/Fylo/)
+- [Live Site URL](https://fylo-lh.netlify.app/)
 
 ## My process
 
