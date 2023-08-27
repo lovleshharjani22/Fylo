@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Harshitsoni2000/Fylo-Dark-Theme-Landing-Page)
-- [Live Site URL](https://harshitsoni2000.github.io/Fylo-Dark-Theme-Landing-Page/)
+- [Solution URL](https://github.com/lovleshharjani22/Fylo)
+- [Live Site URL](https://lovleshharjani22.github.io/Fylo/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Harshitsoni2000](https://www.frontendmentor.io/profile/Harshitsoni2000)
+- Frontend Mentor - [@lovleshharjani22](https://www.frontendmentor.io/profile/lovleshharjani22)
